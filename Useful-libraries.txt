@@ -1,0 +1,8 @@
+Useful front-end JS libraries:
+(1) - DataTables - https://datatables.net/
+(2) - ChartJS - https://www.chartjs.org/
+(3) - FullCalendar - https://fullcalendar.io/
+(4) - ThreeJS - https://threejs.org/
+(5) - AnyListScroller (Horizontal scrolling JS library) - https://als.musings.it/
+(6) - JQueryUI - https://jqueryui.com/
+(7) - Toastr - https://codeseven.github.io/toastr/
